@@ -1,0 +1,38 @@
+.weather-nav>div{
+    margin: 0 20px;
+}
+
+html{
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+
+.info{
+    font-size: 20px;
+}
+
+.home{
+    font-size: 18px;
+}
+
+.weather-nav>div>a{
+    color:black;
+    text-decoration: none;
+}
+
+.main-block{
+    width: 100%;
+    border: 1px solid lightslategrey;
+    border-radius: 5px;
+    height: 200px;
+    text-align: center;
+}
+
+.main-block>div>h2{
+    margin-top:30px;
+}
+
+.main-block>div>a{
+    margin-top: 30px;
+}
